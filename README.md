@@ -1,2 +1,3 @@
 # DetectingDeviceSpringFramework
- To detect the type of device that is accessing your web site.
+
+ please dont use this repository until i made it complete. I am new here.
